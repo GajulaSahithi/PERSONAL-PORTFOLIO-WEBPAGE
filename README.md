@@ -71,3 +71,9 @@ Prepares an essential asset for career advancement or entrepreneurship.
 Provides a continual platform to update and showcase new skills and projects over time.
 In summary, assembling a Personal Portfolio Webpage using standard web development tools and a dedicated code editor like Visual Studio Code is a straightforward yet essential project applicable across various professions. It leverages core frontend technologies, strengthens an individual’s web presence, and effectively communicates their skills and accomplishments to a global audience.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/64027fa7-8d16-4b2c-9ae7-8e2c966ab8fd)
+
+![Image](https://github.com/user-attachments/assets/e7f75be1-2587-4849-ba12-5e00c1493800)
+
